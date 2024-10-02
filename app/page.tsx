@@ -47,6 +47,15 @@ export default function Lander() {
           >
             here
           </a>
+          . see the code{" "}
+          <a
+            className="underline"
+            href="https://github.com/hyusap/comma-design"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            here
+          </a>
           .
           <br />
           <br />
